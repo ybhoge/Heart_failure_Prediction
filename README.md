@@ -37,5 +37,5 @@ and other classification models and fitted the train & test data to each model.
  Testing Accuracy of Decision Tree   86.66666666666667
   Accuracy of Decision Tree   86.66666666666667
 
-Of the 6 models implemented the one with the best accuracy score was the Random Forest Model. 
+Of the 5 models implemented the one with the best accuracy score was the Random Forest Model. 
 
